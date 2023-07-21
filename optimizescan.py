@@ -33,8 +33,8 @@ Input: 404 ; Output: 0.33
 """
 
 class Solution:    
-    def optimizescan(self, battcap,tdist):
-        return (self / 250) * (tdist * battcap)
+    def optimizescan(self, battcap,):
+        return battcap / 250.00 * 2.00
          
 
 def main():
